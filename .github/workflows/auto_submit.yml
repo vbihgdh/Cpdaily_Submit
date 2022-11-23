@@ -58,7 +58,7 @@
 #         email: ${{ secrets.email }}
 #         # ServerChan
 #         sckey: ${{ secrets.sckey }}
-#         # 使用的config.yml
+#         # config_Cyril.yml 
 #         config: ${{secrets.config}}
 
 #       run: |
@@ -107,7 +107,7 @@
 #         email: ${{ secrets.email }}
 #         # ServerChan
 #         sckey: ${{ secrets.sckey }}
-#         # 使用的config.yml
+#         # config_Cyril.yml 
 #         config: ${{secrets.config}}
 
 #       run: |
